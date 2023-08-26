@@ -7,7 +7,8 @@ I've created a simple responsive and animated webpage using HTML and CSS for a t
 
 You can check out the live demo by running a local server. Here's how you can do it:
 
-Clone the repository: git clone https://github.com/yourusername/your-repo.git
+Clone the repository: git clone  https://github.com/kannan76/CSS-Task.git
+
 
 Navigate to the project directory:
 
