@@ -1,5 +1,5 @@
 # CSS-Task
-CSS TASK 1
+CSS TASK 1 and TASK 2
 Responsive Animated Webpage Demo
 Hey everyone! 👋
 
